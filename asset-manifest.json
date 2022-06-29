@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/littoo/static/css/main.e6c13ad2.css",
+    "main.js": "/littoo/static/js/main.25b0d185.js",
+    "index.html": "/littoo/index.html",
+    "main.e6c13ad2.css.map": "/littoo/static/css/main.e6c13ad2.css.map",
+    "main.25b0d185.js.map": "/littoo/static/js/main.25b0d185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.25b0d185.js"
+  ]
+}
